@@ -2,14 +2,11 @@ import LogicCanvas from "@/components/LogicCanvas";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-black text-white p-10 font-sans">
-      <div className="max-w-5xl mx-auto">
-        <h1 className="text-3xl font-bold mb-2 tracking-tight">
-          WEB LOGIC ANALYZER
-        </h1>
-        <p className="text-zinc-500 mb-8 font-mono">
-          Vicharak Shrike Lite (FPGA + RP2040)
-        </p>
+    <main className="flex flex-col items-center justify-center min-h-screen bg-zinc-950 p-4">
+      <h1 className="text-2xl font-bold text-white mb-4">
+        LOGIC ANALYZER CORE
+      </h1>
+      <div className="w-full max-w-4xl bg-black border border-zinc-800 p-2">
         <LogicCanvas />
       </div>
     </main>
