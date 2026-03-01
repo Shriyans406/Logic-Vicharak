@@ -23,20 +23,22 @@ async fn main() {
     // 3. SPAWN THE MOCK SERIAL TASK
     // Since the board isn't connected yet, we simulate the FPGA/RP2040 sending data.
     let tx_clone = tx.clone();
-    tokio::spawn(async move {
-        let mut counter: u8 = 0;
-        loop {
-            // Simulate 8-bit logic signals (a walking bit pattern)
-            counter = counter.wrapping_add(1);
-            let mock_data = vec![counter, counter.reverse_bits(), 0b10101010]; 
-            
-            // Send to the broadcast channel
-            let _ = tx_clone.send(mock_data);
-            
-            // Simulate high-frequency sampling (every 10ms for now)
-            tokio::time::sleep(Duration::from_millis(10)).await;
+tokio::spawn(async move {
+    // Open the REAL COM port of your Shrike Lite [cite: 2026-01-19, 2026-02-19]
+    let mut port = tokio_serial::new("COM3", 921_600) // CHANGE TO YOUR PORT
+        .open_native_async()
+        .expect("Failed to open hardware port");
+
+    let mut serial_buf = vec![0; 1024];
+    loop {
+        if let Ok(n) = port.read(&mut serial_buf).await {
+            if n > 0 {
+                // Pipe the hardware bytes directly to the WebSockets [cite: 2026-02-19]
+                let _ = tx_clone.send(serial_buf[..n].to_vec());
+            }
         }
-    });
+    }
+});
 
     // 4. DEFINE THE ROUTER
     let app = Router::new()
