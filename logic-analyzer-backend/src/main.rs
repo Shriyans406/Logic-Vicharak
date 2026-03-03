@@ -23,7 +23,7 @@ async fn main() {
     // 2. The Fixed Serial Task [cite: 2026-02-14, 2026-02-19]
     let tx_clone = tx.clone();
 tokio::spawn(async move {
-    let builder = tokio_serial::new("COM9", 921_600);
+    let builder = tokio_serial::new("COM9", 115_200);
 
     let mut port = SerialStream::open(&builder)
         .expect("Failed to open Shrike Lite hardware port");

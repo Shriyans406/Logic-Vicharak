@@ -6,7 +6,7 @@ ShrikeFlash fpga;
 
 void setup() {
   delay(2000);
-  Serial.begin(921600); 
+  Serial.begin(115200); 
   
   Serial.println("--- SYSTEM START ---");
 
