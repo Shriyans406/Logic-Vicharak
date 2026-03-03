@@ -457,16 +457,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            43,
-            -1
+            -1,
+            43
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            52,
-            -1
+            -1,
+            52
           ],
           "json_ref": 621,
           "net_EFLX_input": [
@@ -474,12 +474,12 @@
             -1
           ],
           "net_EFLX_output": [
-            86,
-            -1
+            -1,
+            86
           ],
           "net_input": [
-            38,
             -1,
+            38,
             -1,
             -1
           ],
@@ -517,12 +517,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[0]",
-            ""
+            "",
+            "mcu_out[0]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -686,16 +686,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            44,
-            -1
+            -1,
+            44
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            53,
-            -1
+            -1,
+            53
           ],
           "json_ref": 624,
           "net_EFLX_input": [
@@ -703,12 +703,12 @@
             -1
           ],
           "net_EFLX_output": [
-            87,
-            -1
+            -1,
+            87
           ],
           "net_input": [
-            37,
             -1,
+            37,
             -1,
             -1
           ],
@@ -746,12 +746,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[1]",
-            ""
+            "",
+            "mcu_out[1]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -915,16 +915,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            45,
-            -1
+            -1,
+            45
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            54,
-            -1
+            -1,
+            54
           ],
           "json_ref": 627,
           "net_EFLX_input": [
@@ -932,12 +932,12 @@
             -1
           ],
           "net_EFLX_output": [
-            88,
-            -1
+            -1,
+            88
           ],
           "net_input": [
-            36,
             -1,
+            36,
             -1,
             -1
           ],
@@ -975,12 +975,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[2]",
-            ""
+            "",
+            "mcu_out[2]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -1144,16 +1144,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            46,
-            -1
+            -1,
+            46
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            55,
-            -1
+            -1,
+            55
           ],
           "json_ref": 630,
           "net_EFLX_input": [
@@ -1161,12 +1161,12 @@
             -1
           ],
           "net_EFLX_output": [
-            89,
-            -1
+            -1,
+            89
           ],
           "net_input": [
-            35,
             -1,
+            35,
             -1,
             -1
           ],
@@ -1204,12 +1204,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[3]",
-            ""
+            "",
+            "mcu_out[3]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -1373,16 +1373,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            47,
-            -1
+            -1,
+            47
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            56,
-            -1
+            -1,
+            56
           ],
           "json_ref": 633,
           "net_EFLX_input": [
@@ -1390,12 +1390,12 @@
             -1
           ],
           "net_EFLX_output": [
-            90,
-            -1
+            -1,
+            90
           ],
           "net_input": [
-            30,
             -1,
+            30,
             -1,
             -1
           ],
@@ -1433,12 +1433,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[4]",
-            ""
+            "",
+            "mcu_out[4]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -1602,16 +1602,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            48,
-            -1
+            -1,
+            48
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            57,
-            -1
+            -1,
+            57
           ],
           "json_ref": 636,
           "net_EFLX_input": [
@@ -1619,12 +1619,12 @@
             -1
           ],
           "net_EFLX_output": [
-            91,
-            -1
+            -1,
+            91
           ],
           "net_input": [
-            29,
             -1,
+            29,
             -1,
             -1
           ],
@@ -1662,12 +1662,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[5]",
-            ""
+            "",
+            "mcu_out[5]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -1831,16 +1831,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            49,
-            -1
+            -1,
+            49
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            58,
-            -1
+            -1,
+            58
           ],
           "json_ref": 639,
           "net_EFLX_input": [
@@ -1848,12 +1848,12 @@
             -1
           ],
           "net_EFLX_output": [
-            92,
-            -1
+            -1,
+            92
           ],
           "net_input": [
-            28,
             -1,
+            28,
             -1,
             -1
           ],
@@ -1891,12 +1891,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[6]",
-            ""
+            "",
+            "mcu_out[6]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -2060,16 +2060,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            50,
-            -1
+            -1,
+            50
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            59,
-            -1
+            -1,
+            59
           ],
           "json_ref": 642,
           "net_EFLX_input": [
@@ -2077,12 +2077,12 @@
             -1
           ],
           "net_EFLX_output": [
-            93,
-            -1
+            -1,
+            93
           ],
           "net_input": [
-            32,
             -1,
+            32,
             -1,
             -1
           ],
@@ -2120,12 +2120,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[7]",
-            ""
+            "",
+            "mcu_out[7]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 0,
@@ -15565,7 +15565,7 @@
         "net_name": "GND_NET"
       },
       {
-        "Anet": 0.943228096873114,
+        "Anet": 0.9428542001695019,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15575,7 +15575,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.943228096873114,
+            "Anet": 0.9428542001695019,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15591,7 +15591,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.943228096873114,
+            "Anet": 0.9428542001695019,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15609,7 +15609,7 @@
         "net_name": "mcu_out[4]"
       },
       {
-        "Anet": 0.9376415049755144,
+        "Anet": 0.937230815277835,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15619,7 +15619,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9376415049755144,
+            "Anet": 0.937230815277835,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15635,7 +15635,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9376415049755144,
+            "Anet": 0.937230815277835,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15653,7 +15653,7 @@
         "net_name": "mcu_out[5]"
       },
       {
-        "Anet": 0.9423221630518817,
+        "Anet": 0.9419422999167992,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15663,7 +15663,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9423221630518817,
+            "Anet": 0.9419422999167992,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15679,7 +15679,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9423221630518817,
+            "Anet": 0.9419422999167992,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15697,7 +15697,7 @@
         "net_name": "mcu_out[6]"
       },
       {
-        "Anet": 0.9014041521262192,
+        "Anet": 0.9007548051697246,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15707,7 +15707,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9014041521262192,
+            "Anet": 0.9007548051697246,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15723,7 +15723,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9014041521262192,
+            "Anet": 0.9007548051697246,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15741,7 +15741,7 @@
         "net_name": "mcu_out[7]"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15751,7 +15751,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15767,7 +15767,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15785,7 +15785,7 @@
         "net_name": "mcu_out[0]"
       },
       {
-        "Anet": 0.9944133577727435,
+        "Anet": 0.9943765644472078,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15795,7 +15795,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9944133577727435,
+            "Anet": 0.9943765644472078,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15811,7 +15811,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9944133577727435,
+            "Anet": 0.9943765644472078,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15829,7 +15829,7 @@
         "net_name": "mcu_out[1]"
       },
       {
-        "Anet": 0.9990940158491108,
+        "Anet": 0.9990880490861721,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15839,7 +15839,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9990940158491108,
+            "Anet": 0.9990880490861721,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15855,7 +15855,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9990940158491108,
+            "Anet": 0.9990880490861721,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15873,7 +15873,7 @@
         "net_name": "mcu_out[2]"
       },
       {
-        "Anet": 0.994212039145803,
+        "Anet": 0.9941739199466072,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15883,7 +15883,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.994212039145803,
+            "Anet": 0.9941739199466072,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15899,7 +15899,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.994212039145803,
+            "Anet": 0.9941739199466072,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15931,7 +15931,7 @@
         "net_name": "osc_clk"
       },
       {
-        "Anet": 0.3509486964140774,
+        "Anet": 0.35326002567201853,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15941,7 +15941,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.3509486964140774,
+            "Anet": 0.35326002567201853,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15957,7 +15957,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.3509486964140774,
+            "Anet": 0.35326002567201853,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -15975,7 +15975,7 @@
         "net_name": "count[23]"
       },
       {
-        "Anet": 0.9061351398593216,
+        "Anet": 0.905516950933839,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -15985,7 +15985,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9061351398593216,
+            "Anet": 0.905516950933839,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16001,7 +16001,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9061351398593216,
+            "Anet": 0.905516950933839,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16019,7 +16019,7 @@
         "net_name": "count[21]"
       },
       {
-        "Anet": 0.9128793138618293,
+        "Anet": 0.9123055417039596,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16029,7 +16029,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16045,7 +16045,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16063,7 +16063,7 @@
         "net_name": "count[20]"
       },
       {
-        "Anet": 0.9374401863485738,
+        "Anet": 0.9370281707772343,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16073,7 +16073,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9374401863485738,
+            "Anet": 0.9370281707772343,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16089,7 +16089,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9374401863485738,
+            "Anet": 0.9370281707772343,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16107,7 +16107,7 @@
         "net_name": "count[19]"
       },
       {
-        "Anet": 0.9800190759464957,
+        "Anet": 0.979887482654264,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16117,7 +16117,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9800190759464957,
+            "Anet": 0.979887482654264,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16133,7 +16133,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9800190759464957,
+            "Anet": 0.979887482654264,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16151,7 +16151,7 @@
         "net_name": "count[7]"
       },
       {
-        "Anet": 0.9849010526498035,
+        "Anet": 0.9848016117938289,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16161,7 +16161,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9849010526498035,
+            "Anet": 0.9848016117938289,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16177,7 +16177,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9849010526498035,
+            "Anet": 0.9848016117938289,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16195,7 +16195,7 @@
         "net_name": "count[6]"
       },
       {
-        "Anet": 0.9802203945734362,
+        "Anet": 0.9800901271548647,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16205,7 +16205,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9802203945734362,
+            "Anet": 0.9800901271548647,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16221,7 +16221,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9802203945734362,
+            "Anet": 0.9800901271548647,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16239,7 +16239,7 @@
         "net_name": "count[5]"
       },
       {
-        "Anet": 0.9858069864710359,
+        "Anet": 0.9857135120465316,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16249,7 +16249,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16265,7 +16265,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16283,7 +16283,7 @@
         "net_name": "count[4]"
       },
       {
-        "Anet": 0.9516331495478811,
+        "Anet": 0.9513146080695776,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16293,7 +16293,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9516331495478811,
+            "Anet": 0.9513146080695776,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16309,7 +16309,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9516331495478811,
+            "Anet": 0.9513146080695776,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16327,7 +16327,7 @@
         "net_name": "count[15]"
       },
       {
-        "Anet": 0.956515126251189,
+        "Anet": 0.9562287372091425,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16337,7 +16337,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.956515126251189,
+            "Anet": 0.9562287372091425,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16353,7 +16353,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.956515126251189,
+            "Anet": 0.9562287372091425,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16371,7 +16371,7 @@
         "net_name": "count[14]"
       },
       {
-        "Anet": 0.9518344681748216,
+        "Anet": 0.9515172525701782,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16381,7 +16381,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9518344681748216,
+            "Anet": 0.9515172525701782,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16397,7 +16397,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9518344681748216,
+            "Anet": 0.9515172525701782,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16415,7 +16415,7 @@
         "net_name": "count[13]"
       },
       {
-        "Anet": 0.9574210600724213,
+        "Anet": 0.9571406374618452,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16425,7 +16425,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9574210600724213,
+            "Anet": 0.9571406374618452,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16441,7 +16441,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9574210600724213,
+            "Anet": 0.9571406374618452,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16459,7 +16459,7 @@
         "net_name": "count[12]"
       },
       {
-        "Anet": 0.9658261127471884,
+        "Anet": 0.9656010453619208,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16469,7 +16469,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9658261127471884,
+            "Anet": 0.9656010453619208,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16485,7 +16485,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9658261127471884,
+            "Anet": 0.9656010453619208,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16503,7 +16503,7 @@
         "net_name": "count[11]"
       },
       {
-        "Anet": 0.9707080894504962,
+        "Anet": 0.9705151745014856,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16513,7 +16513,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9707080894504962,
+            "Anet": 0.9705151745014856,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16529,7 +16529,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9707080894504962,
+            "Anet": 0.9705151745014856,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16547,7 +16547,7 @@
         "net_name": "count[10]"
       },
       {
-        "Anet": 0.9660274313741289,
+        "Anet": 0.9658036898625214,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16557,7 +16557,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9660274313741289,
+            "Anet": 0.9658036898625214,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16573,7 +16573,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9660274313741289,
+            "Anet": 0.9658036898625214,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16591,7 +16591,7 @@
         "net_name": "count[9]"
       },
       {
-        "Anet": 0.9716140232717286,
+        "Anet": 0.9714270747541884,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16601,7 +16601,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9716140232717286,
+            "Anet": 0.9714270747541884,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16617,7 +16617,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9716140232717286,
+            "Anet": 0.9714270747541884,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16649,7 +16649,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[19]"
       },
       {
-        "Anet": 0.9858069864710359,
+        "Anet": 0.9857135120465316,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16659,7 +16659,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16668,14 +16668,14 @@
             "json_ref": 740,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16693,7 +16693,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[18]"
       },
       {
-        "Anet": 0.982787207066928,
+        "Anet": 0.9826738445375224,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16703,7 +16703,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.982787207066928,
+            "Anet": 0.9826738445375224,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16712,14 +16712,14 @@
             "json_ref": 743,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.982787207066928,
+            "Anet": 0.9826738445375224,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16737,7 +16737,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[17]"
       },
       {
-        "Anet": 0.978962153155058,
+        "Anet": 0.9788235990261108,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16747,7 +16747,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.978962153155058,
+            "Anet": 0.9788235990261108,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16756,14 +16756,14 @@
             "json_ref": 746,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.978962153155058,
+            "Anet": 0.9788235990261108,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16795,7 +16795,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[23]"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16805,7 +16805,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16814,14 +16814,14 @@
             "json_ref": 750,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16867,7 +16867,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[20]"
       },
       {
-        "Anet": 0.9148925001312346,
+        "Anet": 0.9143319867099657,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16877,7 +16877,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9148925001312346,
+            "Anet": 0.9143319867099657,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16886,14 +16886,14 @@
             "json_ref": 755,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9148925001312346,
+            "Anet": 0.9143319867099657,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16911,7 +16911,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[3]"
       },
       {
-        "Anet": 0.9128793138618293,
+        "Anet": 0.9123055417039596,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16921,7 +16921,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16930,14 +16930,14 @@
             "json_ref": 758,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16955,7 +16955,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[2]"
       },
       {
-        "Anet": 0.9091045896066944,
+        "Anet": 0.9085059573176981,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -16965,7 +16965,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9091045896066944,
+            "Anet": 0.9085059573176981,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16974,14 +16974,14 @@
             "json_ref": 761,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9091045896066944,
+            "Anet": 0.9085059573176981,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -16999,7 +16999,7 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[1]"
       },
       {
-        "Anet": 0.8810709708052257,
+        "Anet": 0.8802877106090627,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -17009,7 +17009,7 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.8810709708052257,
+            "Anet": 0.8802877106090627,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17018,14 +17018,14 @@
             "json_ref": 764,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.8810709708052257,
+            "Anet": 0.8802877106090627,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17281,7 +17281,7 @@
         "net_name": "$abc$2201$aiger2200$40"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -17291,7 +17291,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17307,7 +17307,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17353,7 +17353,7 @@
         "net_name": "$abc$2201$aiger2200$32"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -17363,7 +17363,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17379,7 +17379,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17467,7 +17467,7 @@
         "net_name": "$abc$2201$aiger2200$64"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -17477,7 +17477,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17493,7 +17493,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17581,7 +17581,7 @@
         "net_name": "$abc$2201$aiger2200$48"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -17591,7 +17591,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17607,7 +17607,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17667,7 +17667,7 @@
         "net_name": "$abc$2201$aiger2200$56"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
         "Anet_saved": 0.0,
         "clock_domain": 76,
@@ -17677,7 +17677,7 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -17693,7 +17693,7 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
             "Anet_saved": 0.0,
             "clk": -1,
@@ -42861,7 +42861,7 @@
     "total_logic_memory": 0,
     "total_lut": 24,
     "worst_timing": [
-      19869
+      19739
     ]
   },
   "placement": {
@@ -43381,16 +43381,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            43,
-            -1
+            -1,
+            43
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            52,
-            -1
+            -1,
+            52
           ],
           "json_ref": 627,
           "net_EFLX_input": [
@@ -43398,24 +43398,24 @@
             -1
           ],
           "net_EFLX_output": [
-            86,
-            -1
+            -1,
+            86
           ],
           "net_input": [
-            38,
             -1,
+            38,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -43441,12 +43441,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[0]",
-            ""
+            "",
+            "mcu_out[0]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 2,
@@ -43484,14 +43484,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -43610,16 +43610,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            44,
-            -1
+            -1,
+            44
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            53,
-            -1
+            -1,
+            53
           ],
           "json_ref": 630,
           "net_EFLX_input": [
@@ -43627,24 +43627,24 @@
             -1
           ],
           "net_EFLX_output": [
-            87,
-            -1
+            -1,
+            87
           ],
           "net_input": [
-            37,
             -1,
+            37,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -43670,12 +43670,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[1]",
-            ""
+            "",
+            "mcu_out[1]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 3,
@@ -43713,14 +43713,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -43839,16 +43839,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            45,
-            -1
+            -1,
+            45
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            54,
-            -1
+            -1,
+            54
           ],
           "json_ref": 633,
           "net_EFLX_input": [
@@ -43856,24 +43856,24 @@
             -1
           ],
           "net_EFLX_output": [
-            88,
-            -1
+            -1,
+            88
           ],
           "net_input": [
-            36,
             -1,
+            36,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -43899,12 +43899,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[2]",
-            ""
+            "",
+            "mcu_out[2]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 2,
@@ -43942,14 +43942,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -44068,16 +44068,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            46,
-            -1
+            -1,
+            46
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            55,
-            -1
+            -1,
+            55
           ],
           "json_ref": 636,
           "net_EFLX_input": [
@@ -44085,24 +44085,24 @@
             -1
           ],
           "net_EFLX_output": [
-            89,
-            -1
+            -1,
+            89
           ],
           "net_input": [
-            35,
             -1,
+            35,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -44128,12 +44128,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[3]",
-            ""
+            "",
+            "mcu_out[3]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 3,
@@ -44171,14 +44171,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -44297,16 +44297,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            47,
-            -1
+            -1,
+            47
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            56,
-            -1
+            -1,
+            56
           ],
           "json_ref": 639,
           "net_EFLX_input": [
@@ -44314,24 +44314,24 @@
             -1
           ],
           "net_EFLX_output": [
-            90,
-            -1
+            -1,
+            90
           ],
           "net_input": [
-            30,
             -1,
+            30,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -44357,12 +44357,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[4]",
-            ""
+            "",
+            "mcu_out[4]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 1,
@@ -44400,14 +44400,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -44526,16 +44526,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            48,
-            -1
+            -1,
+            48
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            57,
-            -1
+            -1,
+            57
           ],
           "json_ref": 642,
           "net_EFLX_input": [
@@ -44543,24 +44543,24 @@
             -1
           ],
           "net_EFLX_output": [
-            91,
-            -1
+            -1,
+            91
           ],
           "net_input": [
-            29,
             -1,
+            29,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -44586,12 +44586,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[5]",
-            ""
+            "",
+            "mcu_out[5]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 2,
@@ -44629,14 +44629,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -44755,16 +44755,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            49,
-            -1
+            -1,
+            49
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            58,
-            -1
+            -1,
+            58
           ],
           "json_ref": 645,
           "net_EFLX_input": [
@@ -44772,24 +44772,24 @@
             -1
           ],
           "net_EFLX_output": [
-            92,
-            -1
+            -1,
+            92
           ],
           "net_input": [
-            28,
             -1,
+            28,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -44815,12 +44815,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[6]",
-            ""
+            "",
+            "mcu_out[6]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 3,
@@ -44858,14 +44858,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -44984,16 +44984,16 @@
             -1
           ],
           "inst_EFLX_output": [
-            50,
-            -1
+            -1,
+            50
           ],
           "inst_FD_input": [
             -1,
             -1
           ],
           "inst_FD_output": [
-            59,
-            -1
+            -1,
+            59
           ],
           "json_ref": 648,
           "net_EFLX_input": [
@@ -45001,24 +45001,24 @@
             -1
           ],
           "net_EFLX_output": [
-            93,
-            -1
+            -1,
+            93
           ],
           "net_input": [
-            32,
             -1,
+            32,
             -1,
             -1
           ],
           "net_input_timing": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
           "net_input_timing_min": [
-            0,
             -1,
+            0,
             -1,
             -1
           ],
@@ -45044,12 +45044,12 @@
             -2
           ],
           "port_EFLX_OUTPUT": [
-            "mcu_out[7]",
-            ""
+            "",
+            "mcu_out[7]"
           ],
           "port_EFLX_OUTPUT_DELAY": [
-            -1,
-            -2
+            -2,
+            -1
           ]
         },
         "RBB_phy_version": 2,
@@ -45087,14 +45087,14 @@
           }
         ],
         "input_timing_propagated": [
-          false,
           true,
+          false,
           true,
           true
         ],
         "input_timing_traced": [
-          false,
           true,
+          false,
           true,
           true
         ],
@@ -58489,9 +58489,9 @@
         "net_name": "GND_NET"
       },
       {
-        "Anet": 0.943228096873114,
+        "Anet": 0.9428542001695019,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.943228096873114,
+        "Anet_saved": 0.9428542001695019,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58499,9 +58499,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.943228096873114,
+            "Anet": 0.9428542001695019,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.943228096873114,
+            "Anet_saved": 0.9428542001695019,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -58515,9 +58515,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.943228096873114,
+            "Anet": 0.9428542001695019,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.943228096873114,
+            "Anet_saved": 0.9428542001695019,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -58533,9 +58533,9 @@
         "net_name": "mcu_out[4]"
       },
       {
-        "Anet": 0.9376415049755144,
+        "Anet": 0.937230815277835,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9376415049755144,
+        "Anet_saved": 0.937230815277835,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58543,9 +58543,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9376415049755144,
+            "Anet": 0.937230815277835,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9376415049755144,
+            "Anet_saved": 0.937230815277835,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -58559,9 +58559,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9376415049755144,
+            "Anet": 0.937230815277835,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9376415049755144,
+            "Anet_saved": 0.937230815277835,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -58577,9 +58577,9 @@
         "net_name": "mcu_out[5]"
       },
       {
-        "Anet": 0.9423221630518817,
+        "Anet": 0.9419422999167992,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9423221630518817,
+        "Anet_saved": 0.9419422999167992,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58587,9 +58587,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9423221630518817,
+            "Anet": 0.9419422999167992,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9423221630518817,
+            "Anet_saved": 0.9419422999167992,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -58603,9 +58603,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9423221630518817,
+            "Anet": 0.9419422999167992,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9423221630518817,
+            "Anet_saved": 0.9419422999167992,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -58621,9 +58621,9 @@
         "net_name": "mcu_out[6]"
       },
       {
-        "Anet": 0.9014041521262192,
+        "Anet": 0.9007548051697246,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9014041521262192,
+        "Anet_saved": 0.9007548051697246,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58631,9 +58631,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9014041521262192,
+            "Anet": 0.9007548051697246,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9014041521262192,
+            "Anet_saved": 0.9007548051697246,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58647,9 +58647,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9014041521262192,
+            "Anet": 0.9007548051697246,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9014041521262192,
+            "Anet_saved": 0.9007548051697246,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58665,9 +58665,9 @@
         "net_name": "mcu_out[7]"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58675,9 +58675,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58691,9 +58691,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58709,9 +58709,9 @@
         "net_name": "mcu_out[0]"
       },
       {
-        "Anet": 0.9944133577727435,
+        "Anet": 0.9943765644472078,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9944133577727435,
+        "Anet_saved": 0.9943765644472078,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58719,9 +58719,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9944133577727435,
+            "Anet": 0.9943765644472078,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9944133577727435,
+            "Anet_saved": 0.9943765644472078,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58735,9 +58735,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9944133577727435,
+            "Anet": 0.9943765644472078,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9944133577727435,
+            "Anet_saved": 0.9943765644472078,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58753,9 +58753,9 @@
         "net_name": "mcu_out[1]"
       },
       {
-        "Anet": 0.9990940158491108,
+        "Anet": 0.9990880490861721,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9990940158491108,
+        "Anet_saved": 0.9990880490861721,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58763,9 +58763,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9990940158491108,
+            "Anet": 0.9990880490861721,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9990940158491108,
+            "Anet_saved": 0.9990880490861721,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58779,9 +58779,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9990940158491108,
+            "Anet": 0.9990880490861721,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9990940158491108,
+            "Anet_saved": 0.9990880490861721,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58797,9 +58797,9 @@
         "net_name": "mcu_out[2]"
       },
       {
-        "Anet": 0.994212039145803,
+        "Anet": 0.9941739199466072,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.994212039145803,
+        "Anet_saved": 0.9941739199466072,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58807,9 +58807,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.994212039145803,
+            "Anet": 0.9941739199466072,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.994212039145803,
+            "Anet_saved": 0.9941739199466072,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58823,9 +58823,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.994212039145803,
+            "Anet": 0.9941739199466072,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.994212039145803,
+            "Anet_saved": 0.9941739199466072,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -58855,9 +58855,9 @@
         "net_name": "osc_clk"
       },
       {
-        "Anet": 0.3509486964140774,
+        "Anet": 0.35326002567201853,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.3509486964140774,
+        "Anet_saved": 0.35326002567201853,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58865,9 +58865,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.3509486964140774,
+            "Anet": 0.35326002567201853,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.3509486964140774,
+            "Anet_saved": 0.35326002567201853,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58881,9 +58881,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.3509486964140774,
+            "Anet": 0.35326002567201853,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.3509486964140774,
+            "Anet_saved": 0.35326002567201853,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58899,9 +58899,9 @@
         "net_name": "count[23]"
       },
       {
-        "Anet": 0.9061351398593216,
+        "Anet": 0.905516950933839,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9061351398593216,
+        "Anet_saved": 0.905516950933839,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58909,9 +58909,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9061351398593216,
+            "Anet": 0.905516950933839,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9061351398593216,
+            "Anet_saved": 0.905516950933839,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58925,9 +58925,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9061351398593216,
+            "Anet": 0.905516950933839,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9061351398593216,
+            "Anet_saved": 0.905516950933839,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58943,9 +58943,9 @@
         "net_name": "count[21]"
       },
       {
-        "Anet": 0.9128793138618293,
+        "Anet": 0.9123055417039596,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9128793138618293,
+        "Anet_saved": 0.9123055417039596,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58953,9 +58953,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9128793138618293,
+            "Anet_saved": 0.9123055417039596,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58969,9 +58969,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9128793138618293,
+            "Anet_saved": 0.9123055417039596,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -58987,9 +58987,9 @@
         "net_name": "count[20]"
       },
       {
-        "Anet": 0.9374401863485738,
+        "Anet": 0.9370281707772343,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9374401863485738,
+        "Anet_saved": 0.9370281707772343,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -58997,9 +58997,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9374401863485738,
+            "Anet": 0.9370281707772343,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9374401863485738,
+            "Anet_saved": 0.9370281707772343,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -59013,9 +59013,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9374401863485738,
+            "Anet": 0.9370281707772343,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9374401863485738,
+            "Anet_saved": 0.9370281707772343,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -59031,9 +59031,9 @@
         "net_name": "count[19]"
       },
       {
-        "Anet": 0.9800190759464957,
+        "Anet": 0.979887482654264,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9800190759464957,
+        "Anet_saved": 0.979887482654264,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59041,9 +59041,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9800190759464957,
+            "Anet": 0.979887482654264,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9800190759464957,
+            "Anet_saved": 0.979887482654264,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59057,9 +59057,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9800190759464957,
+            "Anet": 0.979887482654264,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9800190759464957,
+            "Anet_saved": 0.979887482654264,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59075,9 +59075,9 @@
         "net_name": "count[7]"
       },
       {
-        "Anet": 0.9849010526498035,
+        "Anet": 0.9848016117938289,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9849010526498035,
+        "Anet_saved": 0.9848016117938289,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59085,9 +59085,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9849010526498035,
+            "Anet": 0.9848016117938289,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9849010526498035,
+            "Anet_saved": 0.9848016117938289,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59101,9 +59101,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9849010526498035,
+            "Anet": 0.9848016117938289,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9849010526498035,
+            "Anet_saved": 0.9848016117938289,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59119,9 +59119,9 @@
         "net_name": "count[6]"
       },
       {
-        "Anet": 0.9802203945734362,
+        "Anet": 0.9800901271548647,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9802203945734362,
+        "Anet_saved": 0.9800901271548647,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59129,9 +59129,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9802203945734362,
+            "Anet": 0.9800901271548647,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9802203945734362,
+            "Anet_saved": 0.9800901271548647,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59145,9 +59145,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9802203945734362,
+            "Anet": 0.9800901271548647,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9802203945734362,
+            "Anet_saved": 0.9800901271548647,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59163,9 +59163,9 @@
         "net_name": "count[5]"
       },
       {
-        "Anet": 0.9858069864710359,
+        "Anet": 0.9857135120465316,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9858069864710359,
+        "Anet_saved": 0.9857135120465316,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59173,9 +59173,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9858069864710359,
+            "Anet_saved": 0.9857135120465316,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59189,9 +59189,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9858069864710359,
+            "Anet_saved": 0.9857135120465316,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -59207,9 +59207,9 @@
         "net_name": "count[4]"
       },
       {
-        "Anet": 0.9516331495478811,
+        "Anet": 0.9513146080695776,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9516331495478811,
+        "Anet_saved": 0.9513146080695776,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59217,9 +59217,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9516331495478811,
+            "Anet": 0.9513146080695776,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9516331495478811,
+            "Anet_saved": 0.9513146080695776,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59233,9 +59233,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9516331495478811,
+            "Anet": 0.9513146080695776,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9516331495478811,
+            "Anet_saved": 0.9513146080695776,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59251,9 +59251,9 @@
         "net_name": "count[15]"
       },
       {
-        "Anet": 0.956515126251189,
+        "Anet": 0.9562287372091425,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.956515126251189,
+        "Anet_saved": 0.9562287372091425,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59261,9 +59261,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.956515126251189,
+            "Anet": 0.9562287372091425,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.956515126251189,
+            "Anet_saved": 0.9562287372091425,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59277,9 +59277,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.956515126251189,
+            "Anet": 0.9562287372091425,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.956515126251189,
+            "Anet_saved": 0.9562287372091425,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59295,9 +59295,9 @@
         "net_name": "count[14]"
       },
       {
-        "Anet": 0.9518344681748216,
+        "Anet": 0.9515172525701782,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9518344681748216,
+        "Anet_saved": 0.9515172525701782,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59305,9 +59305,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9518344681748216,
+            "Anet": 0.9515172525701782,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9518344681748216,
+            "Anet_saved": 0.9515172525701782,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59321,9 +59321,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9518344681748216,
+            "Anet": 0.9515172525701782,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9518344681748216,
+            "Anet_saved": 0.9515172525701782,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59339,9 +59339,9 @@
         "net_name": "count[13]"
       },
       {
-        "Anet": 0.9574210600724213,
+        "Anet": 0.9571406374618452,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9574210600724213,
+        "Anet_saved": 0.9571406374618452,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59349,9 +59349,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9574210600724213,
+            "Anet": 0.9571406374618452,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9574210600724213,
+            "Anet_saved": 0.9571406374618452,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59365,9 +59365,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9574210600724213,
+            "Anet": 0.9571406374618452,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9574210600724213,
+            "Anet_saved": 0.9571406374618452,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -59383,9 +59383,9 @@
         "net_name": "count[12]"
       },
       {
-        "Anet": 0.9658261127471884,
+        "Anet": 0.9656010453619208,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9658261127471884,
+        "Anet_saved": 0.9656010453619208,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59393,9 +59393,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9658261127471884,
+            "Anet": 0.9656010453619208,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9658261127471884,
+            "Anet_saved": 0.9656010453619208,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59409,9 +59409,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9658261127471884,
+            "Anet": 0.9656010453619208,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9658261127471884,
+            "Anet_saved": 0.9656010453619208,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59427,9 +59427,9 @@
         "net_name": "count[11]"
       },
       {
-        "Anet": 0.9707080894504962,
+        "Anet": 0.9705151745014856,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9707080894504962,
+        "Anet_saved": 0.9705151745014856,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59437,9 +59437,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9707080894504962,
+            "Anet": 0.9705151745014856,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9707080894504962,
+            "Anet_saved": 0.9705151745014856,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59453,9 +59453,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9707080894504962,
+            "Anet": 0.9705151745014856,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9707080894504962,
+            "Anet_saved": 0.9705151745014856,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59471,9 +59471,9 @@
         "net_name": "count[10]"
       },
       {
-        "Anet": 0.9660274313741289,
+        "Anet": 0.9658036898625214,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9660274313741289,
+        "Anet_saved": 0.9658036898625214,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59481,9 +59481,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9660274313741289,
+            "Anet": 0.9658036898625214,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9660274313741289,
+            "Anet_saved": 0.9658036898625214,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59497,9 +59497,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9660274313741289,
+            "Anet": 0.9658036898625214,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9660274313741289,
+            "Anet_saved": 0.9658036898625214,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59515,9 +59515,9 @@
         "net_name": "count[9]"
       },
       {
-        "Anet": 0.9716140232717286,
+        "Anet": 0.9714270747541884,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9716140232717286,
+        "Anet_saved": 0.9714270747541884,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59525,9 +59525,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9716140232717286,
+            "Anet": 0.9714270747541884,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9716140232717286,
+            "Anet_saved": 0.9714270747541884,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59541,9 +59541,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9716140232717286,
+            "Anet": 0.9714270747541884,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9716140232717286,
+            "Anet_saved": 0.9714270747541884,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -59573,9 +59573,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[19]"
       },
       {
-        "Anet": 0.9858069864710359,
+        "Anet": 0.9857135120465316,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9858069864710359,
+        "Anet_saved": 0.9857135120465316,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59583,25 +59583,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9858069864710359,
+            "Anet_saved": 0.9857135120465316,
             "clk": -1,
             "inst": 6,
             "is_internal_timing": false,
             "json_ref": 746,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9858069864710359,
+            "Anet": 0.9857135120465316,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9858069864710359,
+            "Anet_saved": 0.9857135120465316,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -59617,9 +59617,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[18]"
       },
       {
-        "Anet": 0.982787207066928,
+        "Anet": 0.9826738445375224,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.982787207066928,
+        "Anet_saved": 0.9826738445375224,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59627,25 +59627,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.982787207066928,
+            "Anet": 0.9826738445375224,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.982787207066928,
+            "Anet_saved": 0.9826738445375224,
             "clk": -1,
             "inst": 5,
             "is_internal_timing": false,
             "json_ref": 749,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.982787207066928,
+            "Anet": 0.9826738445375224,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.982787207066928,
+            "Anet_saved": 0.9826738445375224,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -59661,9 +59661,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[17]"
       },
       {
-        "Anet": 0.978962153155058,
+        "Anet": 0.9788235990261108,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.978962153155058,
+        "Anet_saved": 0.9788235990261108,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59671,25 +59671,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.978962153155058,
+            "Anet": 0.9788235990261108,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.978962153155058,
+            "Anet_saved": 0.9788235990261108,
             "clk": -1,
             "inst": 4,
             "is_internal_timing": false,
             "json_ref": 752,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.978962153155058,
+            "Anet": 0.9788235990261108,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.978962153155058,
+            "Anet_saved": 0.9788235990261108,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -59719,9 +59719,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[23]"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59729,25 +59729,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 7,
             "is_internal_timing": false,
             "json_ref": 756,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -59791,9 +59791,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[20]"
       },
       {
-        "Anet": 0.9148925001312346,
+        "Anet": 0.9143319867099657,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9148925001312346,
+        "Anet_saved": 0.9143319867099657,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59801,25 +59801,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9148925001312346,
+            "Anet": 0.9143319867099657,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9148925001312346,
+            "Anet_saved": 0.9143319867099657,
             "clk": -1,
             "inst": 3,
             "is_internal_timing": false,
             "json_ref": 761,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9148925001312346,
+            "Anet": 0.9143319867099657,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9148925001312346,
+            "Anet_saved": 0.9143319867099657,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -59835,9 +59835,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[3]"
       },
       {
-        "Anet": 0.9128793138618293,
+        "Anet": 0.9123055417039596,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9128793138618293,
+        "Anet_saved": 0.9123055417039596,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59845,25 +59845,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9128793138618293,
+            "Anet_saved": 0.9123055417039596,
             "clk": -1,
             "inst": 2,
             "is_internal_timing": false,
             "json_ref": 764,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9128793138618293,
+            "Anet": 0.9123055417039596,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9128793138618293,
+            "Anet_saved": 0.9123055417039596,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -59879,9 +59879,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[2]"
       },
       {
-        "Anet": 0.9091045896066944,
+        "Anet": 0.9085059573176981,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9091045896066944,
+        "Anet_saved": 0.9085059573176981,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59889,25 +59889,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.9091045896066944,
+            "Anet": 0.9085059573176981,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9091045896066944,
+            "Anet_saved": 0.9085059573176981,
             "clk": -1,
             "inst": 1,
             "is_internal_timing": false,
             "json_ref": 767,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.9091045896066944,
+            "Anet": 0.9085059573176981,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9091045896066944,
+            "Anet_saved": 0.9085059573176981,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -59923,9 +59923,9 @@
         "net_name": "$auto$alumacc.cc:485:replace_alu$1258.Y[1]"
       },
       {
-        "Anet": 0.8810709708052257,
+        "Anet": 0.8802877106090627,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.8810709708052257,
+        "Anet_saved": 0.8802877106090627,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": false,
@@ -59933,25 +59933,25 @@
         "ignore_timing": true,
         "inst_input": [
           {
-            "Anet": 0.8810709708052257,
+            "Anet": 0.8802877106090627,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.8810709708052257,
+            "Anet_saved": 0.8802877106090627,
             "clk": -1,
             "inst": 0,
             "is_internal_timing": false,
             "json_ref": 770,
             "loop": -1,
             "path_num": 0,
-            "port": 0,
+            "port": 1,
             "timing": -1,
             "timing_min": -1
           }
         ],
         "inst_output": [
           {
-            "Anet": 0.8810709708052257,
+            "Anet": 0.8802877106090627,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.8810709708052257,
+            "Anet_saved": 0.8802877106090627,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -60205,9 +60205,9 @@
         "net_name": "$abc$2201$aiger2200$40"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": true,
@@ -60215,9 +60215,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -60231,9 +60231,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -60277,9 +60277,9 @@
         "net_name": "$abc$2201$aiger2200$32"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": true,
@@ -60287,9 +60287,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 9,
             "is_internal_timing": false,
@@ -60303,9 +60303,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 8,
             "is_internal_timing": false,
@@ -60391,9 +60391,9 @@
         "net_name": "$abc$2201$aiger2200$64"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": true,
@@ -60401,9 +60401,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 13,
             "is_internal_timing": false,
@@ -60417,9 +60417,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -60505,9 +60505,9 @@
         "net_name": "$abc$2201$aiger2200$48"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": true,
@@ -60515,9 +60515,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -60531,9 +60531,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 10,
             "is_internal_timing": false,
@@ -60591,9 +60591,9 @@
         "net_name": "$abc$2201$aiger2200$56"
       },
       {
-        "Anet": 0.9999999496703432,
+        "Anet": 0.9999999493388748,
         "Anet_best_timing": 0.0,
-        "Anet_saved": 0.9999999496703432,
+        "Anet_saved": 0.9999999493388748,
         "clock_domain": 76,
         "clock_synchronizer_net": false,
         "dont_route": true,
@@ -60601,9 +60601,9 @@
         "ignore_timing": false,
         "inst_input": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 12,
             "is_internal_timing": false,
@@ -60617,9 +60617,9 @@
         ],
         "inst_output": [
           {
-            "Anet": 0.9999999496703432,
+            "Anet": 0.9999999493388748,
             "Anet_best_timing": 0.0,
-            "Anet_saved": 0.9999999496703432,
+            "Anet_saved": 0.9999999493388748,
             "clk": -1,
             "inst": 11,
             "is_internal_timing": false,
@@ -85785,7 +85785,7 @@
     "total_logic_memory": 0,
     "total_lut": 24,
     "worst_timing": [
-      19869
+      19739
     ]
   }
 }

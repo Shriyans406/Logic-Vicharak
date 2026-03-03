@@ -1,5 +1,3 @@
-EFLX_CLK chip_tile_x=0, chip_tile_y=0, clk_side=W
-    Input=0, pin=osc_clk
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=0
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=2
@@ -7,15 +5,15 @@ EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=3
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=4
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=5
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=6
-   Output=0, pin=mcu_out[0], output_delay=-1
+   Output=1, pin=mcu_out[0], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=7
-   Output=0, pin=mcu_out[1], output_delay=-1
+   Output=1, pin=mcu_out[1], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=8
-   Output=0, pin=mcu_out[2], output_delay=-1
+   Output=1, pin=mcu_out[2], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=9
-   Output=0, pin=mcu_out[3], output_delay=-1
+   Output=1, pin=mcu_out[3], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=10
-   Output=0, pin=mcu_out[4], output_delay=-1
+   Output=1, pin=mcu_out[4], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=11
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=12
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=13
@@ -28,12 +26,13 @@ EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=19
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=20
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=21
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=22
-   Output=0, pin=mcu_out[5], output_delay=-1
+   Output=1, pin=mcu_out[5], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=23
-   Output=0, pin=mcu_out[6], output_delay=-1
+   Output=1, pin=mcu_out[6], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=24
-   Output=0, pin=mcu_out[7], output_delay=-1
+   Output=1, pin=mcu_out[7], output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=25
+   Output=0, pin=osc_clk, output_delay=-1
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=26
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=27
 EFLX_IOB chip_tile_x=0, chip_tile_y=0, chip_x=0, chip_y=28

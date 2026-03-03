@@ -5,7 +5,7 @@ Timing Summary
 
                                         Group  No. Clocks  No. Clock Pairs  WNS(ps)  TNS(ps)  TNS Endpoints      
                                   -----------  ----------  ---------------  -------  -------  -------------      
-   <UDEF_$auto$clkbufmap.cc:294:execute$2209>           1                1    -6413  -198206             88      
+   <UDEF_$auto$clkbufmap.cc:294:execute$2209>           1                1    -6426  -198095             88      
 
 
 
@@ -15,7 +15,7 @@ Clocks
 
                                  Clock                            Clock net                                       Group  Constrained Period(ps)      Waveform(ps)   Achievable Period(ps)  Achievable Frequency(MHz)
                         --------------                          -----------                                 -----------  ----------------------  -----------------  ---------------------  -------------------------
-   $auto$clkbufmap.cc:294:execute$2209  $auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>           (auto) 2000            (0,1000)                   8412                    118.878 
+   $auto$clkbufmap.cc:294:execute$2209  $auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>           (auto) 2000            (0,1000)                   8425                    118.694 
 
 
 
@@ -25,7 +25,7 @@ Clock Relationships
 
                             From Clock                             To Clock                                       Group    Endpoints     WNS(ps)    TNS(ps)  TNS Endpoints
                         --------------                       --------------                          ------------------  -----------  ----------  ---------  -------------
-   $auto$clkbufmap.cc:294:execute$2209  $auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>           88       -6413    -198206             88
+   $auto$clkbufmap.cc:294:execute$2209  $auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>           88       -6426    -198095             88
 
 
 
@@ -35,10 +35,10 @@ Timing Details for Clock Pair $auto$clkbufmap.cc:294:execute$2209 and $auto$clkb
 
                             From Clock                             To Clock                                       Group    Endpoints     WNS(ps)    TNS(ps)  TNS Endpoints
                         --------------                       --------------                          ------------------  -----------  ----------  ---------  -------------
-   $auto$clkbufmap.cc:294:execute$2209  $auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>           88       -6413    -198206             88
+   $auto$clkbufmap.cc:294:execute$2209  $auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>           88       -6426    -198095             88
 
 Path 7:
-   Slack (not met):                         -6413ps
+   Slack (not met):                         -6426ps
      Path type:                               SETUP
      Group:              <UDEF_$auto$clkbufmap.cc:294:execute$2209>
      Launching clock:    $auto$clkbufmap.cc:294:execute$2209 (rising edge)
@@ -48,9 +48,9 @@ Path 7:
    + Delay of the capturing clock:           2452ps
    - Clock uncertainty:                       150ps
    = Required time:                          4302ps
-   - Propagation time:                       8263ps (69.6% logic, 30.4% route, logic stage 7)
+   - Propagation time:                       8276ps (69.6% logic, 30.4% route, logic stage 7)
    - Delay of the launching clock:           2452ps
-   = Slack:                                 -6413ps
+   = Slack:                                 -6426ps
 
    Instance/Pin or Net Name                     Type         ID     Location or Fanout   Delay(ps)  Edge  Arrival Time(ps)    Instance detail                                                                        
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,16 +78,16 @@ Path 7:
    RBB_13/CIN                                   RBB_6L       13  [TILE 0 0, RBB 16 24]          -     r            7412                                                                                              
    RBB_13/CMUX                                  RBB_6L       13  [TILE 0 0, RBB 16 24]       1082     r            8494     {inst17: $auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[5].genblk1.carry4 (CARRY4)} 
    $auto$alumacc.cc:485:replace_alu$1258.Y[22]  Net          32             (fanout=1)       1466                     -                                                                                              
-   RBB_7/O[0]                                   IOB           7   [TILE 0 0, RBB 0 24]          -     r            9960     {inst59: mcu_out[7]_OUT (FD)} {(output_port) inst50: g_50_mcu_out_7_obuf (IO)}           
+   RBB_7/O[1]                                   IOB           7   [TILE 0 0, RBB 0 24]          -     r            9960     {inst59: mcu_out[7]_OUT (FD)} {(output_port) inst50: g_50_mcu_out_7_obuf (IO)}           
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   RBB_7/CLK                                    IOB           7   [TILE 0 0, RBB 0 24]        755     r           10715                                                                                              
+   RBB_7/CLK                                    IOB           7   [TILE 0 0, RBB 0 24]        768     r           10728                                                                                              
    $auto$clkbufmap.cc:294:execute$2209          Clock net    76           (fanout=256)      -2452                     -                                                                                              
-   $auto$clkbufmap.cc:294:execute$2209          CLOCK-PORT    -                      -    capture     r            8263                                                                                              
+   $auto$clkbufmap.cc:294:execute$2209          CLOCK-PORT    -                      -    capture     r            8276                                                                                              
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Path 8:
-   Slack (not met):                         -6398ps
+   Slack (not met):                         -6292ps
      Path type:                               SETUP
      Group:              <UDEF_$auto$clkbufmap.cc:294:execute$2209>
      Launching clock:    $auto$clkbufmap.cc:294:execute$2209 (rising edge)
@@ -97,9 +97,9 @@ Path 8:
    + Delay of the capturing clock:           2431ps
    - Clock uncertainty:                       150ps
    = Required time:                          4281ps
-   - Propagation time:                       8227ps (61.2% logic, 38.8% route, logic stage 6)
+   - Propagation time:                       8121ps (60.7% logic, 39.3% route, logic stage 6)
    - Delay of the launching clock:           2452ps
-   = Slack:                                 -6398ps
+   = Slack:                                 -6292ps
 
    Instance/Pin or Net Name                     Type         ID     Location or Fanout   Delay(ps)  Edge  Arrival Time(ps)    Instance detail                                                                        
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -124,16 +124,16 @@ Path 8:
    RBB_12/CIN                                   RBB_6L       12  [TILE 0 0, RBB 13 24]          -     r            7089                                                                                              
    RBB_12/AMUX                                  RBB_6L       12  [TILE 0 0, RBB 13 24]        709     r            7798     {inst16: $auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[4].genblk1.carry4 (CARRY4)} 
    $auto$alumacc.cc:485:replace_alu$1258.Y[16]  Net          30             (fanout=1)       2144                     -                                                                                              
-   RBB_4/O[0]                                   IOB           4   [TILE 0 0, RBB 0 10]          -     r            9942     {inst56: mcu_out[4]_OUT (FD)} {(output_port) inst47: g_47_mcu_out_4_obuf (IO)}           
+   RBB_4/O[1]                                   IOB           4   [TILE 0 0, RBB 0 10]          -     r            9942     {inst56: mcu_out[4]_OUT (FD)} {(output_port) inst47: g_47_mcu_out_4_obuf (IO)}           
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   RBB_4/CLK                                    IOB           4   [TILE 0 0, RBB 0 10]        737     r           10679                                                                                              
+   RBB_4/CLK                                    IOB           4   [TILE 0 0, RBB 0 10]        631     r           10573                                                                                              
    $auto$clkbufmap.cc:294:execute$2209          Clock net    76           (fanout=256)      -2431                     -                                                                                              
-   $auto$clkbufmap.cc:294:execute$2209          CLOCK-PORT    -                      -    capture     r            8248                                                                                              
+   $auto$clkbufmap.cc:294:execute$2209          CLOCK-PORT    -                      -    capture     r            8142                                                                                              
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Path 9:
-   Slack (not met):                         -6151ps
+   Slack (not met):                         -6133ps
      Path type:                               SETUP
      Group:              <UDEF_$auto$clkbufmap.cc:294:execute$2209>
      Launching clock:    $auto$clkbufmap.cc:294:execute$2209 (rising edge)
@@ -143,9 +143,9 @@ Path 9:
    + Delay of the capturing clock:           2452ps
    - Clock uncertainty:                       150ps
    = Required time:                          4302ps
-   - Propagation time:                       8001ps (66.2% logic, 33.8% route, logic stage 6)
+   - Propagation time:                       7983ps (66.1% logic, 33.9% route, logic stage 6)
    - Delay of the launching clock:           2452ps
-   = Slack:                                 -6151ps
+   = Slack:                                 -6133ps
 
    Instance/Pin or Net Name                     Type         ID     Location or Fanout   Delay(ps)  Edge  Arrival Time(ps)    Instance detail                                                                        
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -170,11 +170,11 @@ Path 9:
    RBB_12/CIN                                   RBB_6L       12  [TILE 0 0, RBB 13 24]          -     r            7089                                                                                              
    RBB_12/CMUX                                  RBB_6L       12  [TILE 0 0, RBB 13 24]        995     r            8084     {inst16: $auto$alumacc.cc:485:replace_alu$1258.genblk1.slice[4].genblk1.carry4 (CARRY4)} 
    $auto$alumacc.cc:485:replace_alu$1258.Y[18]  Net          28             (fanout=1)       1656                     -                                                                                              
-   RBB_6/O[0]                                   IOB           6   [TILE 0 0, RBB 0 23]          -     r            9740     {inst58: mcu_out[6]_OUT (FD)} {(output_port) inst49: g_49_mcu_out_6_obuf (IO)}           
+   RBB_6/O[1]                                   IOB           6   [TILE 0 0, RBB 0 23]          -     r            9740     {inst58: mcu_out[6]_OUT (FD)} {(output_port) inst49: g_49_mcu_out_6_obuf (IO)}           
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   RBB_6/CLK                                    IOB           6   [TILE 0 0, RBB 0 23]        713     r           10453                                                                                              
+   RBB_6/CLK                                    IOB           6   [TILE 0 0, RBB 0 23]        695     r           10435                                                                                              
    $auto$clkbufmap.cc:294:execute$2209          Clock net    76           (fanout=256)      -2452                     -                                                                                              
-   $auto$clkbufmap.cc:294:execute$2209          CLOCK-PORT    -                      -    capture     r            8001                                                                                              
+   $auto$clkbufmap.cc:294:execute$2209          CLOCK-PORT    -                      -    capture     r            7983                                                                                              
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

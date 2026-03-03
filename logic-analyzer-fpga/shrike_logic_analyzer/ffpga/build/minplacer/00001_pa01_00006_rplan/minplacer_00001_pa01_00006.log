@@ -1,9 +1,9 @@
-The current time is Sun Mar  1 19:24:35 2026
+The current time is Tue Mar  3 18:57:21 2026
 CPUs=4
 EXE="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe"
 BuildDir=C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23
 BuildPath="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23"
-CWD=C:\Users\HP\AppData\Local\Temp\CHikgshW\out\minplacer\00001_pa01_00006_rplan
+CWD=C:\Users\HP\AppData\Local\Temp\SWImEapY\out\minplacer\00001_pa01_00006_rplan
 LogFile=minplacer_00001_pa01_00006.log
 PrintScreen=..\_00001_pa01_stdout.txt
 Command line: C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe -print_screen ..\_00001_pa01_stdout.txt -eflx_call_minplacer 00001_pa01_00006_rplan__out__main
@@ -164,9 +164,9 @@ Short connection estimation: ...........
 Long connection estimation: (50)w---------(60)----------(70)----------(80)----------(90)----------(100)-
 Long connection estimation: (50)pxxxxxxxxx(60)xxxxxxxxxx(70)xxxxxxxxxx(80)xxxxxxxxxx(90)xxxxxxxxxx(100)x
 FINDER COMPUTE-FULL returns 0
-(1) COMPUTE-FULL ENDS ELAPSE=1
+(1) COMPUTE-FULL ENDS ELAPSE=0
 
-(3) FIN ELAPSE=1
+(3) FIN ELAPSE=0
 
 Wrote 1 RBB-locations out of 1 core insts and 5 chained insts to EFLX file ..\..\minplacer\00001_pa01_00006_rplan\minplacer_rbbloc.txt.
 Wrote 8 RBB-locations out of 8 IOB insts to EFLX file ..\..\minplacer\00001_pa01_00006_rplan\minplacer_rbbloc.txt.
@@ -231,7 +231,7 @@ CLOCK[0] #LockedPort=0 #AssignedPort=1 #OutputPort=0 TX0Y0={#Cluster=1 L=6 IOB=8
 Placement timing:
                               Clock                                       Group  Achievable Frequency(MHz)
                      --------------                                 -----------  -------------------------
-$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   128.700 
+$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   130.890 
 
 
 FINDER ENDS
@@ -239,7 +239,7 @@ pProblemFin.
 Min-placement step ends: Delay and congestion estimation (fastest_delay=0 gentable=0 mode=1). Runtime: 0:0:10 (CPU time), 0:0:10 (real time); peak memory: 1374MB.
 
 
-The current time is Sun Mar  1 19:24:45 2026
+The current time is Tue Mar  3 18:57:31 2026
 
 
 

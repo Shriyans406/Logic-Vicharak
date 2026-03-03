@@ -1,9 +1,9 @@
-The current time is Sun Mar  1 19:24:25 2026
+The current time is Tue Mar  3 18:57:10 2026
 CPUs=4
 EXE="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe"
 BuildDir=C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23
 BuildPath="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23"
-CWD=C:\Users\HP\AppData\Local\Temp\CHikgshW\out\minplacer\00001_pa01_00005_post
+CWD=C:\Users\HP\AppData\Local\Temp\SWImEapY\out\minplacer\00001_pa01_00005_post
 LogFile=minplacer_00001_pa01_00005.log
 PrintScreen=..\_00001_pa01_stdout.txt
 Command line: C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe -print_screen ..\_00001_pa01_stdout.txt -eflx_call_minplacer 00001_pa01_00005_post__out__main
@@ -166,21 +166,21 @@ TileRange read: File is not given. Use whole chip.
 Read 14 RBB-locations from EFLX file.
 Reading timing_def file ..\..\minplacer\00001_pa01_00002_setup\minplacer.timing_def
 pPipeAlloc: OptMode=1 PppFfInsertDone=0 MinPipeRtDly=98 #Chain=0 AveChainLen=0.0 MaxChainLen=0 #Net=0 AveChainFan=0.0 MaxChainFan=0 #MixedZeroFan=0 Opt_UseLatency=0 OptLine_RightSlack_WorseThreshold=100
-(0) INI TWL = 770(500, 270) ELAPSE=0
+(0) INI TWL = 770(500, 270) ELAPSE=1
 CROSS-TILE STAT: [0]=32
 PANN_TILERANGE LayerMask=40 TileRange={0,1; 0,1} RangeDivider=4 WL=770 (500, 270) StartingIter=0 NumIters=1
 PANN_TILERANGE  (iter=0) WL=770 (500, 270) TIMESPENT=0
 PANN_TILERANGE ENDS TIMESPENT=0
 Long connection estimation: ...
 Short connection estimation: ...........
-(1) IOS-ANN TWL = 770(500, 270) ELAPSE=0
-[ITER=0] WNS=-5973,M=3.986 TNS=-156578 PathNumObj=2 *
-[ITER=1] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=2] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=3] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=4] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=5] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=6] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 
+(1) IOS-ANN TWL = 770(500, 270) ELAPSE=1
+[ITER=0] WNS=-5843,M=3.921 TNS=-155538 PathNumObj=2 *
+[ITER=1] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=2] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=3] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=4] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=5] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=6] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 
 (2) IMPROVED TWL = 1150(880, 270) ELAPSE=3
 (3) FIN TWL = 1150(880, 270) ELAPSE=3
 CROSS-TILE STAT: [0]=32
@@ -247,7 +247,7 @@ CLOCK[0] #LockedPort=0 #AssignedPort=1 #OutputPort=0 TX0Y0={#Cluster=1 L=6 IOB=8
 Placement timing:
                               Clock                                       Group  Achievable Frequency(MHz)
                      --------------                                 -----------  -------------------------
-$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   128.700 
+$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   130.890 
 
 
 POST ENDS
@@ -255,7 +255,7 @@ pProblemFin.
 Min-placement step ends: Detaild placement (mode=2). Runtime: 0:0:10 (CPU time), 0:0:10 (real time); peak memory: 1415MB.
 
 
-The current time is Sun Mar  1 19:24:35 2026
+The current time is Tue Mar  3 18:57:20 2026
 
 
 

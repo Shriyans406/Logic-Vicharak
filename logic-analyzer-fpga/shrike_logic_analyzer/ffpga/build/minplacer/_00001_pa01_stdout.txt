@@ -78,13 +78,13 @@ Resource usages:
 Min-placement step: Detaild placement (mode=2).
 Long connection estimation: ...
 Short connection estimation: ...........
-[ITER=0] WNS=-5973,M=3.986 TNS=-156578 PathNumObj=2 *
-[ITER=1] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=2] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=3] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=4] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=5] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 ***&&&&&!@
-[ITER=6] WNS=-5771,M=3.885 TNS=-163805 PathNumObj=2 
+[ITER=0] WNS=-5843,M=3.921 TNS=-155538 PathNumObj=2 *
+[ITER=1] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=2] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=3] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=4] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=5] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 ***&&&&&!@
+[ITER=6] WNS=-5641,M=3.820 TNS=-162765 PathNumObj=2 
 pClockAap: #TIlE=[1,1]
 #Parts=1
 	Part[0]: [0,0] W1 W0 E1 E0 S1 S0 N1 N0
@@ -111,7 +111,7 @@ pClockAap: SUCCESSFUL.
 Placement timing:
                               Clock                                       Group  Achievable Frequency(MHz)
                      --------------                                 -----------  -------------------------
-$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   128.700 
+$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   130.890 
 
 
 Min-placement step ends: Detaild placement (mode=2). Runtime: 0:0:10 (CPU time), 0:0:10 (real time); peak memory: 1415MB.
@@ -155,7 +155,7 @@ pClockAap: SUCCESSFUL.
 Placement timing:
                               Clock                                       Group  Achievable Frequency(MHz)
                      --------------                                 -----------  -------------------------
-$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   128.700 
+$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   130.890 
 
 
 Min-placement step ends: Delay and congestion estimation (fastest_delay=0 gentable=0 mode=1). Runtime: 0:0:10 (CPU time), 0:0:10 (real time); peak memory: 1374MB.

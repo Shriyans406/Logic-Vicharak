@@ -1,15 +1,15 @@
-LOG STARTS The current time is Sun Mar  1 19:24:03 2026
+LOG STARTS The current time is Tue Mar  3 18:56:49 2026
 TA took 0 seconds.
-LOG ENDS The current time is Sun Mar  1 19:24:04 2026
+LOG ENDS The current time is Tue Mar  3 18:56:50 2026
 
 
 
-The current time is Sun Mar  1 19:24:05 2026
+The current time is Tue Mar  3 18:56:50 2026
 CPUs=4
 EXE="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe"
 BuildDir=C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23
 BuildPath="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23"
-CWD=C:\Users\HP\AppData\Local\Temp\CHikgshW\out\minplacer\00001_pa01_00003_wl
+CWD=C:\Users\HP\AppData\Local\Temp\SWImEapY\out\minplacer\00001_pa01_00003_wl
 LogFile=minplacer_00001_pa01_00003.log
 PrintScreen=..\_00001_pa01_stdout.txt
 Command line: C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe -print_screen ..\_00001_pa01_stdout.txt -eflx_call_minplacer 00001_pa01_00003_wl__out__main
@@ -164,7 +164,7 @@ pDelayLibIni. pdelay_estimate_pppff_delay=120
 TileRange read: File is not given. Use whole chip.
 Reading timing_def file ..\..\minplacer\00001_pa01_00002_setup\minplacer.timing_def
 pPipeAlloc: OptMode=1 PppFfInsertDone=0 MinPipeRtDly=98 #Chain=0 AveChainLen=0.0 MaxChainLen=0 #Net=0 AveChainFan=0.0 MaxChainFan=0 #MixedZeroFan=0 Opt_UseLatency=0 OptLine_RightSlack_WorseThreshold=100
-(0): Ini TileRange={0,1; 0,1}. IsTiny=0 IsLowUtil=0. CurMem=234070016 PeakMem=367755264
+(0): Ini TileRange={0,1; 0,1}. IsTiny=0 IsLowUtil=0. CurMem=233648128 PeakMem=367362048
 ALWAYS_CLKPLC=0
 RandomPlacement ends.
 FORCE(1): Initial random illegal placement generated.
@@ -244,16 +244,16 @@ CLOCK[0] #LockedPort=0 #AssignedPort=1 #OutputPort=0 TX0Y0={#Cluster=1 L=6 IOB=8
 Placement timing:
                               Clock                                       Group  Achievable Frequency(MHz)
                      --------------                                 -----------  -------------------------
-$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   193.162 
+$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   198.138 
 
 
 pDelayLibFin
-(54): Fin. CurMem=32321536 PeakMem=367755264
+(54): Fin. CurMem=31875072 PeakMem=367362048
 pProblemFin.
 Min-placement step ends: Global placement and legalization. Runtime: 0:0:10 (CPU time), 0:0:10 (real time); peak memory: 1304MB.
 
 
-The current time is Sun Mar  1 19:24:15 2026
+The current time is Tue Mar  3 18:57:00 2026
 
 
 

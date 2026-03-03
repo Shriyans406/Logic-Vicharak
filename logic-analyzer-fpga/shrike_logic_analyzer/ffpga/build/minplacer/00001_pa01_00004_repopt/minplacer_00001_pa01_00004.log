@@ -1,9 +1,9 @@
-The current time is Sun Mar  1 19:24:15 2026
+The current time is Tue Mar  3 18:57:00 2026
 CPUs=4
 EXE="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe"
 BuildDir=C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23
 BuildPath="C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23"
-CWD=C:\Users\HP\AppData\Local\Temp\CHikgshW\out\minplacer\00001_pa01_00004_repopt
+CWD=C:\Users\HP\AppData\Local\Temp\SWImEapY\out\minplacer\00001_pa01_00004_repopt
 LogFile=minplacer_00001_pa01_00004.log
 PrintScreen=..\_00001_pa01_stdout.txt
 Command line: C:\Program Files\Renesas Electronics\Go Configure Software Hub\external\eda-placer\v23\eda-placer.exe -print_screen ..\_00001_pa01_stdout.txt -eflx_call_minplacer 00001_pa01_00004_repopt__out__main
@@ -224,7 +224,7 @@ CLOCK[0] #LockedPort=0 #AssignedPort=1 #OutputPort=0 TX0Y0={#Cluster=1 L=6 IOB=8
 Placement timing:
                               Clock                                       Group  Achievable Frequency(MHz)
                      --------------                                 -----------  -------------------------
-$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   193.162 
+$auto$clkbufmap.cc:294:execute$2209  <UDEF_$auto$clkbufmap.cc:294:execute$2209>                   198.138 
 
 
 pDelayLibFin
@@ -234,7 +234,7 @@ pProblemFin.
 Min-placement step ends: Replication (mode=1). Runtime: 0:0:10 (CPU time), 0:0:10 (real time); peak memory: 1337MB.
 
 
-The current time is Sun Mar  1 19:24:25 2026
+The current time is Tue Mar  3 18:57:10 2026
 
 
 

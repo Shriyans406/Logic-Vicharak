@@ -747,22 +747,22 @@ wire EFLX_CHIP_RST = CHIP_RST;
 wire GND_NET ;
 assign GND_NET = 1'b0 ;
 assign \_$$_$auto$clkbufmap.cc:294:execute$2209  = TILE_00_CLK_IN_N1;
-assign TILE_00_EFLX_OUT_0_6_0 = mcu_out[0];
-assign TILE_00_EFLX_OUT_0_7_0 = mcu_out[1];
-assign TILE_00_EFLX_OUT_0_8_0 = mcu_out[2];
-assign TILE_00_EFLX_OUT_0_9_0 = mcu_out[3];
-assign TILE_00_EFLX_OUT_0_10_0 = mcu_out[4];
-assign TILE_00_EFLX_OUT_0_22_0 = mcu_out[5];
-assign TILE_00_EFLX_OUT_0_23_0 = mcu_out[6];
-assign TILE_00_EFLX_OUT_0_24_0 = mcu_out[7];
+assign TILE_00_EFLX_OUT_0_6_1 = mcu_out[0];
+assign TILE_00_EFLX_OUT_0_7_1 = mcu_out[1];
+assign TILE_00_EFLX_OUT_0_8_1 = mcu_out[2];
+assign TILE_00_EFLX_OUT_0_9_1 = mcu_out[3];
+assign TILE_00_EFLX_OUT_0_10_1 = mcu_out[4];
+assign TILE_00_EFLX_OUT_0_22_1 = mcu_out[5];
+assign TILE_00_EFLX_OUT_0_23_1 = mcu_out[6];
+assign TILE_00_EFLX_OUT_0_24_1 = mcu_out[7];
   RBBIO TILE_00_RBB_0_6 (
     .CE(1'b0),
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_0_EFLX_OUT_1, mcu_out[0]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[0] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[0], UNCON_RBB_0_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[0] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -786,9 +786,9 @@ defparam TILE_00_RBB_0_6.OsyncSRen=1'h0;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_1_EFLX_OUT_1, mcu_out[1]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[1] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[1], UNCON_RBB_1_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[1] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -1247,9 +1247,9 @@ defparam TILE_00_RBB_16_24.XOR_D=5'b00000;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_2_EFLX_OUT_1, mcu_out[2]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[2] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[2], UNCON_RBB_2_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[2] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -1273,9 +1273,9 @@ defparam TILE_00_RBB_0_8.OsyncSRen=1'h0;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_3_EFLX_OUT_1, mcu_out[3]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[3] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[3], UNCON_RBB_3_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[3] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -1299,9 +1299,9 @@ defparam TILE_00_RBB_0_9.OsyncSRen=1'h0;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_4_EFLX_OUT_1, mcu_out[4]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[16] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[4], UNCON_RBB_4_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[16] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -1325,9 +1325,9 @@ defparam TILE_00_RBB_0_10.OsyncSRen=1'h0;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_5_EFLX_OUT_1, mcu_out[5]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[17] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[5], UNCON_RBB_5_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[17] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -1351,9 +1351,9 @@ defparam TILE_00_RBB_0_22.OsyncSRen=1'h0;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_6_EFLX_OUT_1, mcu_out[6]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[18] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[6], UNCON_RBB_6_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[18] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
@@ -1377,9 +1377,9 @@ defparam TILE_00_RBB_0_23.OsyncSRen=1'h0;
     .CHIP_RST(EFLX_CHIP_RST),
     .CLK(\_$$_$auto$clkbufmap.cc:294:execute$2209 ),
     .EFLX_IN({1'b0, 1'b0}),
-    .EFLX_OUT({UNCON_RBB_7_EFLX_OUT_1, mcu_out[7]}),
-    .O0(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[22] ),
-    .O1(1'b0),
+    .EFLX_OUT({mcu_out[7], UNCON_RBB_7_EFLX_OUT_0}),
+    .O0(1'b0),
+    .O1(\_$$_$auto$alumacc.cc:485:replace_alu$1258.Y[22] ),
     .SR(1'b0)
 );
 // Configuration for simulation:
